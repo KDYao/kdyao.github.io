@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 
 
@@ -33,6 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- # 📝 Publications  -->
 # Publications 
+<span class='anchor' id='publications'></span>
 
 
 - [Finding associations between natural and computer languages: A case-study of bilingual LDA applied to the bleeping computer forum posts](../resources/papers/Kundi_JSS2023.pdf)
@@ -69,6 +71,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Teachings
+<span class='anchor' id='teaching'></span>
 
 ### Guest Lecturer at North Carolina State University (NC State)
 - [Generative AI for Software Engineering (GAI4SE)](https://github.com/gai4se/GAI4SE-Course) (2024 Fall)
@@ -91,6 +94,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- # 📖 Educations -->
 
 # Educations
+<span class='anchor' id='educations'></span>
 
 - Ph.D. in Software Engineering, Queen's University, 2024
 - M.A.Sc in Software Engineering, Concordia University, 2018
@@ -100,6 +104,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- # 💻 Industrial experiences -->
 # Industrial experiences
+
+<span class='anchor' id='industrial_expriences'></span>
+
 - **Research Collaborator** (2024.04 - Now) at [Aptiv PLC](https://www.aptiv.com/)
 
 - **Research Intern** (2023.01 - 2023.08) at [Blackberry Ltd](https://www.blackberry.com/)
@@ -111,6 +118,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- # 💬 Invited Talks -->
 # Invited Talks
+
+<span class='anchor' id='invited-talks'></span>
+
 - Consortium for Software Engineering Research (CSER 2024), Kingston, Canada. *Improving state-of-the-art compression techniques for log management tools*
 - Blackberry Ltd, Waterloo, Canada (2021). *Log Compression Techniques: Evaluation of Compression Options and New Approach to Preprocessing for Improved Compression*
 - The 9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018), Berlin, Gemany. *Log4perf: Suggesting logging locations for web-based systems' performance monitoring*
