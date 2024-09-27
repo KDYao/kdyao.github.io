@@ -58,13 +58,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Log4Perf: Suggesting and updating logging locations for web-based systems’ performance monitoring](../resources/papers/Kundi_EMSE2019.pdf)
   
-  **Kundi Yao**, Guilherme B De Padua, Weiyi Shang, Catalin Sporea, Andrei Toma, Sarah Sajedi
+  **Kundi Yao**, Guilherme B. de Pádua, Weiyi Shang, Catalin Sporea, Andrei Toma, Sarah Sajedi
 
   Empirical Software Engineering (EMSE)
 
 - [Log4perf: Suggesting logging locations for web-based systems' performance monitoring](../resources/papers/Kundi_ICPE2018.pdf)
   
-  **Kundi Yao**, Guilherme B De Padua, Weiyi Shang, Catalin Sporea, Andrei Toma, Sarah Sajedi
+  **Kundi Yao**, Guilherme B. de Pádua, Weiyi Shang, Catalin Sporea, Andrei Toma, Sarah Sajedi
 
   The 9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018). Best paper nomination.
 
