@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
 <span class='anchor' id='about-me'></span>
+
+# About Me
 
 
 I am currently a Postdoctoral Fellow at University of Waterloo. 
@@ -33,8 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
-# Publications 
 <span class='anchor' id='publications'></span>
+
+# Publications 
 
 
 - [Finding associations between natural and computer languages: A case-study of bilingual LDA applied to the bleeping computer forum posts](../resources/papers/Kundi_JSS2023.pdf)
@@ -70,8 +72,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Teaching
 <span class='anchor' id='teaching'></span>
+
+# Teaching
 
 ### Guest Lecturer at North Carolina State University (NC State)
 - [Generative AI for Software Engineering (GAI4SE)](https://github.com/gai4se/GAI4SE-Course) (2024 Fall)
@@ -93,8 +96,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- # 📖 Educations -->
 
-# Educations
 <span class='anchor' id='educations'></span>
+
+# Educations
 
 - Ph.D. in Software Engineering, Queen's University, 2024
 - M.A.Sc in Software Engineering, Concordia University, 2018
@@ -103,9 +107,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 <!-- # 💻 Industrial experiences -->
-# Industrial experiences
-
 <span class='anchor' id='industrial_expriences'></span>
+
+# Industrial experiences
 
 - **Research Collaborator** (2024.04 - Now) at [Aptiv PLC](https://www.aptiv.com/)
 
@@ -117,9 +121,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 <!-- # 💬 Invited Talks -->
+<span class='anchor' id='invited-talks'></span>
+
 # Invited Talks
 
-<span class='anchor' id='invited-talks'></span>
 
 - Consortium for Software Engineering Research (CSER 2024), Kingston, Canada. *Improving state-of-the-art compression techniques for log management tools*
 - Blackberry Ltd, Waterloo, Canada (2021). *Log Compression Techniques: Evaluation of Compression Options and New Approach to Preprocessing for Improved Compression*
