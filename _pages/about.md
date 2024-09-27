@@ -24,6 +24,7 @@ I am currently a Postdoctoral Fellow at University of Waterloo.
 Prior to this, I received my Ph.D. from [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/index.html) at [Queen’s University](https://www.queensu.ca/) (Kingston, ON) under the supervision of Prof. [Ahmed E. Hassan](https://www.cs.queensu.ca/people/Ahmed%20E./Hassan). 
 I obtained my Master’s degree from [Concordia University](https://www.concordia.ca/) under the supervision of Prof. [Weiyi Shang](https://ece.uwaterloo.ca/~wshang/).
 
+<!-- My research primarily focuses on streamlining and optimizing today's log management process. -->
 My research interests include empirical software engineering, software log management, log mining, performance engineering, and mining software repositories. Contact me at [kundi.yao@uwaterloo.ca](mailto:kundi.yao@uwaterloo.ca)
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -111,13 +112,31 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Industrial experiences
 
-- **Research Collaborator** (2024.04 - Now) at [Aptiv PLC](https://www.aptiv.com/)
+- **Research Collaborator** (2024.04 - Now)
+  
+  [Aptiv PLC](https://www.aptiv.com/) (Remote)
 
-- **Research Intern** (2023.01 - 2023.08) at [Blackberry Ltd](https://www.blackberry.com/)
+  Topics: Large language model (LLM), Requirement Engineering
 
-- **Research Intern** (2020.05 - 2020.08) at [Blackberry Ltd](https://www.blackberry.com/)
+- **Research Intern** (2023.01 - 2023.08) 
+  
+  [Blackberry Ltd](https://www.blackberry.com/), Waterloo, ON, Canada
 
-- **Research Intern** (2017.01 - 2018.08) at [ERA Environmental Management Solutions](https://www.era-environmental.com/)
+  Topics: Large language model (LLM), RAG-based Code Generation, Predictive Analytics, Personally Identifiable Information (PII) Detection
+
+- **Research Intern** (2020.05 - 2020.08)
+  
+  [Blackberry Ltd](https://www.blackberry.com/) (Remote)
+
+  Topics: Natural Lanugage Processing (NLP), Log Analysis
+
+- **Research Intern** (2017.01 - 2018.08)  
+  
+  [ERA Environmental Management Solutions](https://www.era-environmental.com/), Montreal, QC, Canada
+
+  Topics: Performance Modeling, Performance Testing
+
+
 
 
 <!-- # 💬 Invited Talks -->
