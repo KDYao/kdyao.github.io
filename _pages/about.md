@@ -42,7 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Finding associations between natural and computer languages: A case-study of bilingual LDA applied to the bleeping computer forum posts](../resources/papers/Kundi_JSS2023.pdf)
   
-  **Kundi Yao**, Gustavo A Oliva, Ahmed E Hassan, Muhammad Asaduzzaman, Andrew J Malton, Andrew Walenstein
+  **Kundi Yao**, Gustavo A Oliva, Ahmed E Hassan, Muhammad Asaduzzaman, Andrew J. Malton, Andrew Walenstein
+
   Journal of Systems and Software (JSS)
 
 - [Improving state-of-the-art compression techniques for log management tools](../resources/papers/Kundi_TSE_2021.pdf)
