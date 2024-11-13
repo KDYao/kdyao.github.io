@@ -111,7 +111,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - Ph.D. in Software Engineering, Queen's University, 2024
 - M.A.Sc in Software Engineering, Concordia University, 2018
-- B.Eng. in Internet of Things (IoT), Wuhan University of Technology, 2015
+- B.Eng. in Internet of Things (IoT) Engineering, Wuhan University of Technology, 2015
 
 
 
