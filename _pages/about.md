@@ -78,7 +78,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Teaching
 
-### Guest Lecturer at North Carolina State University (NC State)
+### Guest Lecturer at University of Waterloo
+- Software Design and Architectures (2024 Fall)
+  
+  Title: Nonfunctional Requirements \& Twitter Design Excercise
+
+### Guest Lecturer at North Carolina State University
 - [Generative AI for Software Engineering (GAI4SE)](https://github.com/gai4se/GAI4SE-Course) (2024 Fall)
   
   Title: Improving analytical capabilities and storage efficiencies of modern log management solutions 
