@@ -41,6 +41,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [Batch Execution of Microbenchmarks for Efficient Performance Testing](../resources/papers/Mostafa_ICST2025.pdf)
+  
+  Mostafa Jangali, **Kundi Yao**, Yiming Tang, Diego Elias Costa, and Weiyi Shang.
+
+  The 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025), Vision and Emerging Results.
 
 - [Finding associations between natural and computer languages: A case-study of bilingual LDA applied to the bleeping computer forum posts](../resources/papers/Kundi_JSS2023.pdf)
   
@@ -81,7 +86,12 @@ My research interest includes neural machine translation and computer vision. I 
 # Teaching
 
 ### Guest Lecturer at University of Waterloo
-- Software Design and Architectures (2024 Fall)
+- ECE 750: Special Topics in Computer Software (2025 Winter)
+  
+  Title: Code analysis tutorial – How to create an Eclipse plugin to extract AST (abstract syntax tree) information
+  
+
+- SE 464: Software Design and Architectures (2024 Fall)
   
   Title: Nonfunctional Requirements \& Twitter Design Excercise
 
@@ -98,8 +108,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Academic Services
-- **Program committee member**: SANER 2025 (Tool Demo Track)
-- **Reviewer:** ASE, SPE, ICPE, SANER
+- **Program committee member**: 
+  - [SANER 2025 (Tool Demo Track)](https://conf.researchr.org/committee/saner-2025/saner-2025-tool-demo-track--program-commitee)
+  - [ICPC 2025 (RENE Track)](https://conf.researchr.org/track/icpc-2025/icpc-2025-replications-and-negative-results--rene-)
+  - [LTB 2025](https://ltb2025.github.io/)
+- **Reviewer:** ASE, SPE, ICPE, SANER, ICPC, EMSE
 
 
 
