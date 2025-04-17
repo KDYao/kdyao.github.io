@@ -134,7 +134,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Industrial experiences
 
-- **Research Collaborator** (2024.04 - Now)
+- **Research Collaborator** (2024.04 - 2025.03)
   
   [Aptiv PLC](https://www.aptiv.com/) (Remote)
 
