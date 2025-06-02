@@ -41,6 +41,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems
+
+  An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang and Weiyi Shang
+
+  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS2025)
+
+- Improving QA System Testing Efficiency Through White-Box Test Prioritization. 
+
+  Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang and Weiyi Shang.
+
+  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS2025)  
+
 - [Batch Execution of Microbenchmarks for Efficient Performance Testing](../resources/papers/Mostafa_ICST2025.pdf)
   
   Mostafa Jangali, **Kundi Yao**, Yiming Tang, Diego Elias Costa, and Weiyi Shang.
@@ -116,16 +128,32 @@ My research interest includes neural machine translation and computer vision. I 
 - **Reviewer:** ASE, SPE, ICPE, SANER, ICPC, EMSE, PROMISE
 
 
+<!-- # Mentoring
+
+## PhD students
+- Hetong Dai
+- Haonan Zhang
+- Jianchen Zhao
+- Tongwei Zhang
+- Xiaohui Wang
+- Yuanjie Xia
+
+## Master students
+- An Chen
+- Mostafa Jangali
+- Xiaoyu Cheng
+- Yixi Zhao -->
+  
 
 <!-- # 📖 Educations -->
 
-<span class='anchor' id='educations'></span>
+<!-- <span class='anchor' id='educations'></span>
 
 # Educations
 
 - Ph.D. in Software Engineering, Queen's University, 2024
-- M.A.Sc in Software Engineering, Concordia University, 2018
-- B.Eng. in Internet of Things (IoT) Engineering, Wuhan University of Technology, 2015
+- M.A.Sc in Software Engineering, Concordia University, 2018 -->
+<!-- - B.Eng. in Internet of Things (IoT) Engineering, Wuhan University of Technology, 2015 -->
 
 
 
