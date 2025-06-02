@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS2025)
 
-- Improving QA System Testing Efficiency Through White-Box Test Prioritization. 
+- Improving QA System Testing Efficiency Through White-Box Test Prioritization
 
   Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang and Weiyi Shang.
 
