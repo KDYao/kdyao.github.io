@@ -45,13 +45,13 @@ My research interest includes neural machine translation and computer vision. I 
 
   An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang and Weiyi Shang
 
-  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS2025)
+  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2025)
 
 - Improving QA System Testing Efficiency Through White-Box Test Prioritization
 
   Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang and Weiyi Shang.
 
-  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS2025)  
+  The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2025)  
 
 - [Batch Execution of Microbenchmarks for Efficient Performance Testing](../resources/papers/Mostafa_ICST2025.pdf)
   
@@ -125,7 +125,7 @@ My research interest includes neural machine translation and computer vision. I 
   - [ICPC 2025 (RENE Track)](https://conf.researchr.org/track/icpc-2025/icpc-2025-replications-and-negative-results--rene-)
   - [LTB 2025](https://ltb2025.github.io/)
   - [PROMISE 2025](https://conf.researchr.org/committee/promise-2025/promise-2025-papers-program-committee)
-- **Reviewer:** ASE, SPE, ICPE, SANER, ICPC, EMSE, PROMISE
+- **Reviewer:** ASE, SPE, ICPE, SANER, ICPC, EMSE, PROMISE, IEEE Software
 
 
 <!-- # Mentoring
