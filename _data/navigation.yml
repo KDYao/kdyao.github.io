@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: "/#teaching"
 
-  - title: "Educations"
-    url: "/#educations"
+  # - title: "Educations"
+  #   url: "/#educations"
 
   - title: "Industrial experiences"
     url: "/#industrial_expriences"
