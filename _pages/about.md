@@ -27,7 +27,7 @@ Prior to this, I received my Ph.D. from [Software Analysis and Intelligence Lab 
 I obtained my Master’s degree from [Concordia University](https://www.concordia.ca/) under the supervision of Prof. [Weiyi Shang](https://ece.uwaterloo.ca/~wshang/).
 
 <!-- My research primarily focuses on streamlining and optimizing today's log management process. -->
-My research interests include empirical software engineering, software log management, log mining, performance engineering, and mining software repositories. Contact me at [kundi.yao@uwaterloo.ca](mailto:kundi.yao@uwaterloo.ca)
+My research interests include AIOps, software log management, log analytics, performance engineering, software testing, empirical software engineering, and mining software repositories. Contact me at [kundi.yao@uwaterloo.ca](mailto:kundi.yao@uwaterloo.ca)
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
