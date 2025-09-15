@@ -122,6 +122,7 @@ My research interest includes neural machine translation and computer vision. I 
 # Academic Services
 - **Program committee member**: 
   - [SANER 2026 (Research Track)](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
+  - [ISSRE 2025 (Artifact Evaluation Track)](https://issre.github.io/2025/committee_artifact-evaluation-PC.html)
   - [AIware 2025 (Main Track)](https://2025.aiwareconf.org/track/aiware-2025-papers)
   - [SANER 2025 (Tool Demo Track)](https://conf.researchr.org/committee/saner-2025/saner-2025-tool-demo-track--program-commitee)
   - [ICPC 2025 (RENE Track)](https://conf.researchr.org/track/icpc-2025/icpc-2025-replications-and-negative-results--rene-)
