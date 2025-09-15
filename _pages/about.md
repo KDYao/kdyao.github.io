@@ -41,6 +41,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- MEMCAIN: A Memory-Enhanced Hybrid CNN-Attention Model for Network Anomaly Detection
+
+  Lan Liu, Tingfeng Cai, Chiyu Zhou, Fengwei Guo, **Kundi Yao**, and Jianhao Zhou
+
+  Springer Nature Scientific Reports (SREP 2025)
+
 - An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems
 
   An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang and Weiyi Shang
