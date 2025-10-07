@@ -41,21 +41,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-- MEMCAIN: A Memory-Enhanced Hybrid CNN-Attention Model for Network Anomaly Detection
+- [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective]()
 
-  Lan Liu, Tingfeng Cai, Chiyu Zhou, Fengwei Guo, **Kundi Yao**, and Jianhao Zhou
+  Haonan Zhang, **Kundi Yao**, Zishuo Ding, Lizhi Liao, Weiyi Shang
+
+  The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+
+- [MEMCAIN: A Memory-Enhanced Hybrid CNN-Attention Model for Network Anomaly Detection](https://www.nature.com/articles/s41598-025-18951-6)
+
+  Lan Liu, Tingfeng Cai, Chiyu Zhou, Fengwei Guo, **Kundi Yao**, Jianhao Zhou
 
   Springer Nature Scientific Reports (SREP 2025)
 
-- An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems
+- [An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf)
 
-  An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang and Weiyi Shang
+  An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang, Weiyi Shang
 
   The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2025)
 
-- Improving QA System Testing Efficiency Through White-Box Test Prioritization
+- [Improving QA System Testing Efficiency Through White-Box Test Prioritization](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_ANNA.pdf)
 
-  Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang and Weiyi Shang.
+  Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang, Weiyi Shang.
 
   The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2025)  
 
@@ -127,6 +133,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Services
 - **Program committee member**: 
+  - [LLM4Code 2026](https://llm4code.github.io/pc/)
   - [SANER 2026 (Research Track)](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
   - [ISSRE 2025 (Artifact Evaluation Track)](https://issre.github.io/2025/committee_artifact-evaluation-PC.html)
   - [AIware 2025 (Main Track)](https://2025.aiwareconf.org/track/aiware-2025-papers)
