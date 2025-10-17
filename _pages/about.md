@@ -21,6 +21,7 @@ redirect_from:
 
 # About Me
 
+🌟 I will be joining the Faculty of Engineering and Applied Science at [Ontario Tech University](https://ontariotechu.ca/) as an Assistant Professor in January 2026.
 
 I am currently a Postdoctoral Fellow at University of Waterloo. 
 Prior to this, I received my Ph.D. from [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/index.html) at [Queen’s University](https://www.queensu.ca/) (Kingston, ON) under the supervision of Prof. [Ahmed E. Hassan](https://www.cs.queensu.ca/people/Ahmed%20E./Hassan). 
