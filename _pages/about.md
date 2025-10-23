@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-- [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective]()
+- [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective](https://conf.researchr.org/details/ase-2025/ase-2025-papers/243/Who-s-to-Blame-Rethinking-the-Brittleness-of-Automated-Web-GUI-Testing-from-a-Pragma)
 
   Haonan Zhang, **Kundi Yao**, Zishuo Ding, Lizhi Liao, Weiyi Shang
 
