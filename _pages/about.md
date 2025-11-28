@@ -42,6 +42,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [Detecting DTC Requirement-Implementation Inconsistencies Using LLMs: An Experience Report]()
+  
+  Tongwei Zhang, **Kundi Yao**, Hanyang Hu, Pengyu Nie, Krishna Koravadi, Weiyi Shang
+
+  IEEE Software
+  
 - [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective](https://conf.researchr.org/details/ase-2025/ase-2025-papers/243/Who-s-to-Blame-Rethinking-the-Brittleness-of-Automated-Web-GUI-Testing-from-a-Pragma)
 
   Haonan Zhang, **Kundi Yao**, Zishuo Ding, Lizhi Liao, Weiyi Shang
@@ -133,7 +139,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Academic Services
+- **Program chair**: 
+  - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
+  - [FSE 2026 (Industry Track)](https://conf.researchr.org/committee/fse-2026/fse-2026-industry-papers-program-committee)
   - [LLM4Code 2026](https://llm4code.github.io/pc/)
   - [SANER 2026 (Research Track)](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
   - [ISSRE 2025 (Artifact Evaluation Track)](https://issre.github.io/2025/committee_artifact-evaluation-PC.html)
