@@ -42,12 +42,30 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs]()
+  
+  He Yang Yuan, Xin Wang, **Kundi Yao**, An Ran Chen, Zishuo Ding, Zhenhao Li
+  
+  The 34th ACM SIGSOFT Conference on the Foundations of Software Engineering (FSE 2026)
+
+- [LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks]()
+  
+  Zongxiong Chen, Derui Zhu, **Kundi Yao**, Weiyi Shang, Jinfu Chen, Jiahui Geng, Alexander Pretschner, Jens Grossklags, Manfred Hauswirth, Sonja Schimmler
+  
+  The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
+
+- [An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries]()
+  
+  Yixi Zhao, **Kundi Yao**, Yiming Tang, Weiyi Shang
+  
+  The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
+
 - [Detecting DTC Requirement-Implementation Inconsistencies Using LLMs: An Experience Report]()
   
   Tongwei Zhang, **Kundi Yao**, Hanyang Hu, Pengyu Nie, Krishna Koravadi, Weiyi Shang
 
   IEEE Software
-  
+
 - [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective](https://conf.researchr.org/details/ase-2025/ase-2025-papers/243/Who-s-to-Blame-Rethinking-the-Brittleness-of-Automated-Web-GUI-Testing-from-a-Pragma)
 
   Haonan Zhang, **Kundi Yao**, Zishuo Ding, Lizhi Liao, Weiyi Shang
@@ -142,6 +160,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **Program chair**: 
   - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
+  - [ICPC 2026 (RENE Track)](https://conf.researchr.org/track/icpc-2026/icpc-2026-replications-and-negative-results--rene-)
   - [FSE 2026 (Industry Track)](https://conf.researchr.org/committee/fse-2026/fse-2026-industry-papers-program-committee)
   - [LLM4Code 2026](https://llm4code.github.io/pc/)
   - [SANER 2026 (Research Track)](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
