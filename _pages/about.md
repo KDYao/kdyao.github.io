@@ -42,6 +42,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation]()
+  
+  Hetong Dai, **Kundi Yao**, Felix Li, Jianxin You, Qianyun Shen, Weiyi Shang. 
+  
+  ACM Transactions on Software Engineering and Methodology (TOSEM)
+
 - [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs]()
   
   He Yang Yuan, Xin Wang, **Kundi Yao**, An Ran Chen, Zishuo Ding, Zhenhao Li
