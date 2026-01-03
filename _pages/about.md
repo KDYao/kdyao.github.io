@@ -21,14 +21,12 @@ redirect_from:
 
 # About Me
 
-🌟 I will be joining the Faculty of Engineering and Applied Science at [Ontario Tech University](https://ontariotechu.ca/) as an Assistant Professor in January 2026.
-
-I am currently a Postdoctoral Fellow at University of Waterloo. 
-Prior to this, I received my Ph.D. from [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/index.html) at [Queen’s University](https://www.queensu.ca/) (Kingston, ON) under the supervision of Prof. [Ahmed E. Hassan](https://www.cs.queensu.ca/people/Ahmed%20E./Hassan). 
-I obtained my Master’s degree from [Concordia University](https://www.concordia.ca/) under the supervision of Prof. [Weiyi Shang](https://ece.uwaterloo.ca/~wshang/).
-
+I am an Assistant Professor at the Faculty of Engineering and Applied Science, [Ontario Tech University](https://ontariotechu.ca/).
+Prior to that, I was a Postdoctoral Research Fellow at the University of Waterloo.
+I received my Ph.D. from [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/index.html) at Queen’s University under the supervision of Prof. [Ahmed E. Hassan](https://www.cs.queensu.ca/people/Ahmed%20E./Hassan). 
+I obtained my Master’s degree from Concordia University under the supervision of Prof. [Weiyi Shang](https://ece.uwaterloo.ca/~wshang/).
 <!-- My research primarily focuses on streamlining and optimizing today's log management process. -->
-My research interests include AIOps, software log management, log analytics, performance engineering, software testing, empirical software engineering, and mining software repositories. Contact me at [kundi.yao@uwaterloo.ca](mailto:kundi.yao@uwaterloo.ca)
+My research interests include AIOps, software log management, log analytics, performance engineering, software testing, empirical software engineering, and mining software repositories. Contact me at [kundi.yao@ontariotechu.ca](mailto:kundi.yao@ontariotechu.ca)
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -136,7 +134,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<span class='anchor' id='teaching'></span>
+<!-- <span class='anchor' id='teaching'></span>
 
 # Teaching
 
@@ -159,7 +157,7 @@ My research interest includes neural machine translation and computer vision. I 
 - CISC 326: Software/Game Architecture (2021 Winter)
 - CISC 235: Data Structures (2021 Winter)
 - CISC 351: Advanced Data Analytics (2020 Winter)
-- CISC 102: Discrete Mathematics For Computing (2019 Winter)
+- CISC 102: Discrete Mathematics For Computing (2019 Winter) -->
 
 
 # Academic Services
