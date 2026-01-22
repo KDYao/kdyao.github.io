@@ -40,6 +40,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [World of Logs: A Dataset of Logs from Online Documents]()
+  
+  Xiaohui Wang, **Kundi Yao**, Lizhi Liao, Pengyu Nie, Xuan Zhang, Weiyi Shang.
+
+  The 23rd International Mining Software Repositories Conference (MSR 2026), Data Track
+
 - [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation]()
   
   Hetong Dai, **Kundi Yao**, Felix Li, Jianxin You, Qianyun Shen, Weiyi Shang. 
