@@ -170,6 +170,10 @@ My research interest includes neural machine translation and computer vision. I 
 - **Program chair**: 
   - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
+  - [COMPSAC 2026 (Software Engineering Technology and Applications Track)](https://ieeecompsac.computer.org/2026/compsac-2026-symposium-on-software-engineering-technologies-applications-seta/)
+  - [FSE 2026 (Ideas, Visions and Reflections Track)](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)
+  - [FSE 2026 (Industry Track)](https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers)
+  - [PROMISE 2026](https://conf.researchr.org/home/promise-2026)
   - [ICPC 2026 (RENE Track)](https://conf.researchr.org/track/icpc-2026/icpc-2026-replications-and-negative-results--rene-)
   - [FSE 2026 (Industry Track)](https://conf.researchr.org/committee/fse-2026/fse-2026-industry-papers-program-committee)
   - [LLM4Code 2026](https://llm4code.github.io/pc/)
@@ -223,19 +227,19 @@ My research interest includes neural machine translation and computer vision. I 
 
   Topics: Large language model (LLM), Requirement Engineering
 
-- **Research Intern** (2023.01 - 2023.08) 
+- **Research Collaborator** (2023.01 - 2023.08) 
   
   [Blackberry Ltd](https://www.blackberry.com/), Waterloo, ON, Canada
 
   Topics: Large language model (LLM), RAG-based Code Generation, Predictive Analytics, Personally Identifiable Information (PII) Detection
 
-- **Research Intern** (2020.05 - 2020.08)
+- **Research Collaborator** (2020.05 - 2020.08)
   
   [Blackberry Ltd](https://www.blackberry.com/) (Remote)
 
   Topics: Natural Lanugage Processing (NLP), Log Analysis
 
-- **Research Intern** (2017.01 - 2018.08)  
+- **Research Collaborator** (2017.01 - 2018.08)  
   
   [ERA Environmental Management Solutions](https://www.era-environmental.com/), Montreal, QC, Canada
 
