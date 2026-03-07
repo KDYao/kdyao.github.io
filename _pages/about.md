@@ -40,6 +40,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [Not-So-Pretty: Studying and Segmenting Multiline Console Logs]()
+  
+  Jianchen Zhao, **Kundi Yao**, Masanari Kondo, Hetong Dai, Weiyi Shang, Yasutaka Kamei.
+
+  ACM Transactions on Software Engineering and Methodology (TOSEM)
+
+
 - [World of Logs: A Dataset of Logs from Online Documents]()
   
   Xiaohui Wang, **Kundi Yao**, Lizhi Liao, Pengyu Nie, Xuan Zhang, Weiyi Shang.
@@ -170,12 +177,13 @@ My research interest includes neural machine translation and computer vision. I 
 - **Program chair**: 
   - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
+  - [ASE 2026](https://conf.researchr.org/committee/ase-2026/ase-2026-research-track-programm-committee)
+  - [ICSS 2026](https://ccf.org.cn/ICSS2026)
   - [COMPSAC 2026 (Software Engineering Technology and Applications Track)](https://ieeecompsac.computer.org/2026/compsac-2026-symposium-on-software-engineering-technologies-applications-seta/)
   - [FSE 2026 (Ideas, Visions and Reflections Track)](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)
   - [FSE 2026 (Industry Track)](https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers)
   - [PROMISE 2026](https://conf.researchr.org/home/promise-2026)
   - [ICPC 2026 (RENE Track)](https://conf.researchr.org/track/icpc-2026/icpc-2026-replications-and-negative-results--rene-)
-  - [FSE 2026 (Industry Track)](https://conf.researchr.org/committee/fse-2026/fse-2026-industry-papers-program-committee)
   - [LLM4Code 2026](https://llm4code.github.io/pc/)
   - [SANER 2026 (Research Track)](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
   - [ISSRE 2025 (Artifact Evaluation Track)](https://issre.github.io/2025/committee_artifact-evaluation-PC.html)
