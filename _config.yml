@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kundi Yao"
-description              : "Postdoctoral researcher at University of Waterloo"
+description              : "Assistant Professor at Ontario Tech University"
 repository               : "kdyao/kdyao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rio9UwMAAAAJ"
-  email            : "kundi.yao@uwaterloo.ca" 
+  email            : "kundi.yao@ontariotechu.ca" 
   researchgate     :  "https://www.researchgate.net/profile/Kundi-Yao"
   uri              :
   bitbucket        :
