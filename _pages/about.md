@@ -41,6 +41,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs]()
+  
+  Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, **Kundi Yao**, Yiming Tang, Weiyi Shang and Daqing Hou.
+
+  The 2026 International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
+
+
 - [Not-So-Pretty: Studying and Segmenting Multiline Console Logs]()
   
   Jianchen Zhao, **Kundi Yao**, Masanari Kondo, Hetong Dai, Weiyi Shang, Yasutaka Kamei.
@@ -72,37 +79,37 @@ My research interest includes neural machine translation and computer vision. I 
   
   The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
 
-- [An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries]()
+- [An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries](../resources/papers/SANER2026_Yixi.pdf)
   
   Yixi Zhao, **Kundi Yao**, Yiming Tang, Weiyi Shang
   
   The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
 
-- [Detecting DTC Requirement-Implementation Inconsistencies Using LLMs: An Experience Report]()
+- [Detecting Diagnostic Trouble Code Requirement–Implementation Inconsistencies Using LLMs: An Experience Report](../resources/papers/IEEESoftware2025_Tongwei.pdf)
   
   Tongwei Zhang, **Kundi Yao**, Hanyang Hu, Pengyu Nie, Krishna Koravadi, Weiyi Shang
 
   IEEE Software
 
-- [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective](https://conf.researchr.org/details/ase-2025/ase-2025-papers/243/Who-s-to-Blame-Rethinking-the-Brittleness-of-Automated-Web-GUI-Testing-from-a-Pragma)
+- [Who's to Blame? Rethinking the Brittleness of Automated Web GUI Testing from a Pragmatic Perspective](../resources/papers/ASE2025_Haonan.pdf)
 
   Haonan Zhang, **Kundi Yao**, Zishuo Ding, Lizhi Liao, Weiyi Shang
 
   The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 
-- [MEMCAIN: A Memory-Enhanced Hybrid CNN-Attention Model for Network Anomaly Detection](https://www.nature.com/articles/s41598-025-18951-6)
+- [MEMCAIN: A Memory-Enhanced Hybrid CNN-Attention Model for Network Anomaly Detection](../resources/papers/SREP2025_Lan.pdf)
 
   Lan Liu, Tingfeng Cai, Chiyu Zhou, Fengwei Guo, **Kundi Yao**, Jianhao Zhou
 
   Springer Nature Scientific Reports (SREP 2025)
 
-- [An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf)
+- [An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems](../resources/papers/QRS2025_AnChen.pdf)
 
   An Chen, **Kundi Yao**, Haonan Zhang, Yiming Tang, Weiyi Shang
 
   The 25th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2025)
 
-- [Improving QA System Testing Efficiency Through White-Box Test Prioritization](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_ANNA.pdf)
+- [Improving QA System Testing Efficiency Through White-Box Test Prioritization](../resources/papers/QRS2025_ANNA.pdf)
 
   Hanying Shao, Zishuo Ding, **Kundi Yao**, Haonan Zhang, Weiyi Shang.
 
