@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
   The 2026 International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
 
 
-- [Not-So-Pretty: Studying and Segmenting Multiline Console Logs]()
+- [Not-So-Pretty: Studying and Segmenting Multiline Console Logs](https://dl.acm.org/doi/10.1145/3803019)
   
   Jianchen Zhao, **Kundi Yao**, Masanari Kondo, Hetong Dai, Weiyi Shang, Yasutaka Kamei.
 
@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   The 23rd International Mining Software Repositories Conference (MSR 2026), Data Track
 
-- [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation]()
+- [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation](https://dl.acm.org/doi/10.1145/3787494)
   
   Hetong Dai, **Kundi Yao**, Felix Li, Jianxin You, Qianyun Shen, Weiyi Shang. 
   
