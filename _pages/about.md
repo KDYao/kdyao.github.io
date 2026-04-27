@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-- [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs]()
+- [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/pdf/2604.18552)
   
   Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, **Kundi Yao**, Yiming Tang, Weiyi Shang and Daqing Hou.
 
@@ -55,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
   ACM Transactions on Software Engineering and Methodology (TOSEM)
 
 
-- [World of Logs: A Dataset of Logs from Online Documents]()
+- [World of Logs: A Dataset of Logs from Online Documents](https://2026.msrconf.org/details/msr-2026-data-and-tool-showcase-track/16/World-of-Logs-A-Dataset-of-Logs-from-Online-Documents)
   
   Xiaohui Wang, **Kundi Yao**, Lizhi Liao, Pengyu Nie, Xuan Zhang, Weiyi Shang.
 
@@ -67,13 +67,13 @@ My research interest includes neural machine translation and computer vision. I 
   
   ACM Transactions on Software Engineering and Methodology (TOSEM)
 
-- [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs]()
+- [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs](https://arxiv.org/pdf/2604.20211)
   
   He Yang Yuan, Xin Wang, **Kundi Yao**, An Ran Chen, Zishuo Ding, Zhenhao Li
   
   The 34th ACM SIGSOFT Conference on the Foundations of Software Engineering (FSE 2026)
 
-- [LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks]()
+- [LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/249/LLM4JMH-Studying-the-Use-of-LLMs-for-Generating-Java-Performance-Microbenchmarks)
   
   Zongxiong Chen, Derui Zhu, **Kundi Yao**, Weiyi Shang, Jinfu Chen, Jiahui Geng, Alexander Pretschner, Jens Grossklags, Manfred Hauswirth, Sonja Schimmler
   
