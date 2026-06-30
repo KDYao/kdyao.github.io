@@ -41,6 +41,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
+- [When AI Coding Assistants Leak Training Data: A Study of LLM Memorization in Code Generation](../resources/papers/AIWare2026_Xiaoyu.pdf)
+  
+  Xiaoyu Cheng, **Kundi Yao**, Pengyu Nie, and Weiyi Shang.
+
+  International Conference on AI-powered Software @ FSE (AIWare 2026)
+
+- [Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing]()
+  
+  Zongxiong Chen, Derui Zhu, Jinfu Chen, **Kundi Yao**, Alexander Pretschner, Weiyi Shang, Manfred Hauswirth, Sonja Schimmler.
+
+  The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
+
 - [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/pdf/2604.18552)
   
   Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, **Kundi Yao**, Yiming Tang, Weiyi Shang and Daqing Hou.
@@ -269,7 +281,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Invited Talks
 
-
+- Consortium for Software Engineering Research (CSER 2026), Edmonton, Canada. *Advancing Log Analytics Infrastructure: Rethinking the Data Foundation for AIOps*
 - Consortium for Software Engineering Research (CSER 2024), Kingston, Canada. *Improving state-of-the-art compression techniques for log management tools*
 - Blackberry Ltd, Waterloo, Canada (2021). *Log Compression Techniques: Evaluation of Compression Options and New Approach to Preprocessing for Improved Compression*
 - The 9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018), Berlin, Gemany. *Log4perf: Suggesting logging locations for web-based systems' performance monitoring*
