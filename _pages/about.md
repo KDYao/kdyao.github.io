@@ -45,7 +45,9 @@ My research interest includes neural machine translation and computer vision. I 
   
   Xiaoyu Cheng, **Kundi Yao**, Pengyu Nie, and Weiyi Shang.
 
-  International Conference on AI-powered Software @ FSE (AIWare 2026)
+  The 3rd ACM International Conference on AI-powered Software @ FSE (AIWare 2026). 
+  
+  🏆 AIware Honorable Mention Paper Award
 
 - [Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing]()
   
