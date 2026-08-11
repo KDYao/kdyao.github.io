@@ -30,7 +30,7 @@ My research interests include AIOps, software log management, log analytics, per
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-🌟 I am looking for self-motivated Master students to work with me. If you are interested, please email me your CV and transcript.
+🌟 I am looking for self-motivated Master students to work with me. If you are interested, please email me your CV, transcript, and publications (if any).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,6 +40,24 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='publications'></span>
 
 # Publications 
+
+- [FSLog: A Federated Split Learning Framework for Privacy-Protected and Computation-Efficient Syslog Fault Diagnosis in IoT Networks](https://doi.org/10.1109/JIOT.2026.3720046)
+  
+  Ting Xu, Shenglin Zhang, Zeyu Che, Yongqian Sun, Wenwei Gu, Yicheng Sui, Sibo Xia, Zijing Que, Weiyi Shang, **Kundi Yao**, Jiayi Ma, Dan Pei
+
+  IEEE Internet of Things Journal (IoT-J).
+
+- [HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems](https://doi.org/10.1145/3837763)
+  
+  Yuanjie Xia, **Kundi Yao**, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, Weiyi Shang.
+
+  ACM Transactions on Software Engineering and Methodology (TOSEM).
+
+- [MLF-ICL: Adaptive malicious URL detection via multi-level feature fusion and TabDPT-based in-context learning](https://doi.org/10.1016/j.neucom.2026.134755)
+  
+  Lan Liu, Fengwei Guo, Weijie Liang, **Kundi Yao**.
+
+  Neurocomputing (NEUCOM).
 
 - [When AI Coding Assistants Leak Training Data: A Study of LLM Memorization in Code Generation](../resources/papers/AIWare2026_Xiaoyu.pdf)
   
@@ -197,6 +215,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Services
 - **Program chair**: 
+  - [CASCON 2026 Poster Track](https://conf.researchr.org/home/cascon-2026)
   - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
   - [ASE 2026](https://conf.researchr.org/committee/ase-2026/ase-2026-research-track-programm-committee)
@@ -214,7 +233,7 @@ My research interest includes neural machine translation and computer vision. I 
   - [ICPC 2025 (RENE Track)](https://conf.researchr.org/track/icpc-2025/icpc-2025-replications-and-negative-results--rene-)
   - [LTB 2025](https://ltb2025.github.io/)
   - [PROMISE 2025](https://conf.researchr.org/committee/promise-2025/promise-2025-papers-program-committee)
-- **Reviewer:** ASE, SPE, ICPE, SANER, ICPC, EMSE, PROMISE, IEEE Software, LTB, AIware.
+- **Reviewer:** ASE, TOSEM, TSE, SPE, ICPE, SANER, ICPC, EMSE, PROMISE, IEEE Software, LTB, AIware.
 
 
 <!-- # Mentoring
