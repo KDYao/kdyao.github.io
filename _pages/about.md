@@ -215,10 +215,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Services
 - **Program chair**: 
-  - [AGENTVERIFY 2027](https://agentverify2027.github.io/#pc)
   - [CASCON 2026 Poster Track](https://conf.researchr.org/home/cascon-2026)
   - [LTB 2026](https://ltb2026.github.io/)
 - **Program committee member**: 
+  - [AGENTVERIFY 2027](https://agentverify2027.github.io/#pc)
   - [ICSE 2026 (Research Track)](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-program-committee)
   - [SANER 2027 (Research Track)](https://conf.researchr.org/committee/saner-2027/saner-2027-papers-program-committee)
   - [ASE 2026](https://conf.researchr.org/committee/ase-2026/ase-2026-research-track-programm-committee)
