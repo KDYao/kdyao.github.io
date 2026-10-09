@@ -41,19 +41,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-- [FSLog: A Federated Split Learning Framework for Privacy-Protected and Computation-Efficient Syslog Fault Diagnosis in IoT Networks](https://doi.org/10.1109/JIOT.2026.3720046)
+- [FSLog: A Federated Split Learning Framework for Privacy-Protected and Computation-Efficient Syslog Fault Diagnosis in IoT Networks](../resources/papers/JIOT2026_Ting.pdf)
   
   Ting Xu, Shenglin Zhang, Zeyu Che, Yongqian Sun, Wenwei Gu, Yicheng Sui, Sibo Xia, Zijing Que, Weiyi Shang, **Kundi Yao**, Jiayi Ma, Dan Pei
 
   IEEE Internet of Things Journal (IoT-J).
 
-- [HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems](https://doi.org/10.1145/3837763)
+- [HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems](../resources/papers/TOSEM2026_Yuanjie.pdf)
   
   Yuanjie Xia, **Kundi Yao**, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, Weiyi Shang.
 
   ACM Transactions on Software Engineering and Methodology (TOSEM).
 
-- [MLF-ICL: Adaptive malicious URL detection via multi-level feature fusion and TabDPT-based in-context learning](https://doi.org/10.1016/j.neucom.2026.134755)
+- [MLF-ICL: Adaptive malicious URL detection via multi-level feature fusion and TabDPT-based in-context learning](../resources/papers/NEUCOM2026_Lan.pdf)
   
   Lan Liu, Fengwei Guo, Weijie Liang, **Kundi Yao**.
 
@@ -67,45 +67,46 @@ My research interest includes neural machine translation and computer vision. I 
   
   🏆 AIware Honorable Mention Paper Award
 
-- [Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing]()
+- [Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing](../resources/papers/ASE2026_Zongxiong.pdf)
   
   Zongxiong Chen, Derui Zhu, Jinfu Chen, **Kundi Yao**, Alexander Pretschner, Weiyi Shang, Manfred Hauswirth, Sonja Schimmler.
 
   The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 
-- [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/pdf/2604.18552)
+- [Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](../resources/papers/EASE2026_Zhiyuan.pdf)
   
   Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, **Kundi Yao**, Yiming Tang, Weiyi Shang and Daqing Hou.
 
   The 2026 International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
 
 
-- [Not-So-Pretty: Studying and Segmenting Multiline Console Logs](https://dl.acm.org/doi/10.1145/3803019)
+
+- [Not-So-Pretty: Studying and Segmenting Multiline Console Logs](../resources/papers/TOSEM2026_Jianchen.pdf)
   
   Jianchen Zhao, **Kundi Yao**, Masanari Kondo, Hetong Dai, Weiyi Shang, Yasutaka Kamei.
 
   ACM Transactions on Software Engineering and Methodology (TOSEM)
 
 
-- [World of Logs: A Dataset of Logs from Online Documents](https://2026.msrconf.org/details/msr-2026-data-and-tool-showcase-track/16/World-of-Logs-A-Dataset-of-Logs-from-Online-Documents)
+- [World of Logs: A Dataset of Logs from Online Documents](../resources/papers/MSR2026_Xiaohui.pdf)
   
   Xiaohui Wang, **Kundi Yao**, Lizhi Liao, Pengyu Nie, Xuan Zhang, Weiyi Shang.
 
   The 23rd International Mining Software Repositories Conference (MSR 2026), Data Track
 
-- [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation](https://dl.acm.org/doi/10.1145/3787494)
+- [LPB-Gen: Systematic Large Log-Parsing Benchmarks Generation](../resources/papers/TOSEM2026_Hetong.pdf)
   
   Hetong Dai, **Kundi Yao**, Felix Li, Jianxin You, Qianyun Shen, Weiyi Shang. 
   
   ACM Transactions on Software Engineering and Methodology (TOSEM)
 
-- [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs](https://arxiv.org/pdf/2604.20211)
+- [Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs](../resources/papers/FSE2026_HeYang.pdf)
   
   He Yang Yuan, Xin Wang, **Kundi Yao**, An Ran Chen, Zishuo Ding, Zhenhao Li
   
   The 34th ACM SIGSOFT Conference on the Foundations of Software Engineering (FSE 2026)
 
-- [LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/249/LLM4JMH-Studying-the-Use-of-LLMs-for-Generating-Java-Performance-Microbenchmarks)
+- [LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks](../resources/papers/ICSE2026_Zongxiong.pdf)
   
   Zongxiong Chen, Derui Zhu, **Kundi Yao**, Weiyi Shang, Jinfu Chen, Jiahui Geng, Alexander Pretschner, Jens Grossklags, Manfred Hauswirth, Sonja Schimmler
   
